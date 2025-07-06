@@ -6,7 +6,7 @@
 
 ---
 
-### 🧑‍💻 Sobre mim
+### 👨‍💻 Sobre mim
 
 Sou apaixonado por transformar ideias em soluções práticas e eficientes. Estou sempre buscando evoluir como desenvolvedor, estudando tecnologias como:
 
@@ -43,7 +43,7 @@ Atualmente busco oportunidades para aplicar meus conhecimentos em projetos desaf
 
 ---
 
-### 🧠 Linguagens mais utilizadas
+### 💻 Linguagens mais utilizadas
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HuascarPinheiro&layout=compact&theme=dark" />
@@ -51,7 +51,7 @@ Atualmente busco oportunidades para aplicar meus conhecimentos em projetos desaf
 
 ---
 
-### 📬 Contato
+### 📞 Contato
 
 <p align="center">
   <a href="https://www.linkedin.com/in/huascarpinheiro/">
