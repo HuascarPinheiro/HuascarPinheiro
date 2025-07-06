@@ -11,7 +11,7 @@
 Sou apaixonado por transformar ideias em soluções práticas e eficientes. Estou sempre buscando evoluir como desenvolvedor, estudando tecnologias como:
 
 - **Front-end**: HTML, CSS, JavaScript, TypeScript, React, Bootstrap, jQuery  
-- **Back-end**: NodeJS, Spring Boot  
+- **Back-end**: Java, NodeJS, Spring Boot  
 - **Testes**: Cypress  
 - **Ferramentas**: Git, GitHub, Vite, ESLint  
 
