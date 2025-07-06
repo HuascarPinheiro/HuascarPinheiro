@@ -10,7 +10,7 @@
 
 ### Projetos
 
-[![projeto4](https://github-readme-stats.vercel.app/api/pin/?username=HuascarPinheiro&repo=projeto4.github.io&theme=dark)](https://github.com/HuascarPinheiro/projeto4.github.io)
+[![projeto4](https://github-readme-stats.vercel.app/api/pin/?username=HuascarPinheiro&repo=projeto4&theme=dark)](https://github.com/HuascarPinheiro/projeto4.github.io)
 
 
 ### Linguagens utilizadas
