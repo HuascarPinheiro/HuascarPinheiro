@@ -30,6 +30,9 @@ Atualmente busco oportunidades para aplicar meus conhecimentos em projetos desaf
 ### 🚀 Projetos em destaque
 
 <p align="center">
+  <a href="https://github.com/HuascarPinheiro/ListaContatosReact">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HuascarPinheiro&repo=ListaContatosReact&theme=dark" />
+  </a>
   <a href="https://github.com/HuascarPinheiro/projeto4">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=HuascarPinheiro&repo=projeto4&theme=dark" />
   </a>
