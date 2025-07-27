@@ -33,8 +33,8 @@ Atualmente busco oportunidades para aplicar meus conhecimentos em projetos desaf
   <a href="https://github.com/HuascarPinheiro/ListaContatosReact">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=HuascarPinheiro&repo=ListaContatosReact&theme=dark" />
   </a>
-  <a href="https://github.com/HuascarPinheiro/projeto4">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HuascarPinheiro&repo=projeto4&theme=dark" />
+  <a href="https://github.com/HuascarPinheiro/ProjetoCloneMax_RickAndMorty">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HuascarPinheiro&repo=ProjetoCloneMax_RickAndMorty&theme=dark" />
   </a>
   <a href="https://github.com/HuascarPinheiro/Projeto3_NextStage">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=HuascarPinheiro&repo=Projeto3_NextStage&theme=dark" />
